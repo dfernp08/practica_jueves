@@ -1,0 +1,15 @@
+git config --global user.name "dfernp08"
+
+git config --global user.email "dfer..."
+
+git init
+
+git add fichero
+
+git commit -m "Primer programita"
+
+git remote add origin (ó repos, solo para refererenciarlo) https://github.com/dfernp08/practica_jueves.git
+
+git push -u origin (no repos o lo que se puso antes) master
+
+
